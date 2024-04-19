@@ -1,4 +1,4 @@
-# wind_chat
+# coins_watch
 
 A new Flutter project.
 
